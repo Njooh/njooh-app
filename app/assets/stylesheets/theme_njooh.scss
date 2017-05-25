@@ -7788,7 +7788,7 @@ body {
 
 .navbar-inverse {
   background-color: #205081;
-  height: 60px;
+  height: 8%;
   box-shadow: 0 1px 2px rgba(0, 0, 0, .5);
   -webkit-transition: all .4s;
   -moz-transition: all .4s;
@@ -7839,7 +7839,7 @@ body {
 }
 
 .navbar-inverse .nav-item .nav-link {
-  color: #dadada;
+  color: rgba(255, 255, 255, 0.85);
   font-weight: 700;
   font-size: 13px;
   -webkit-transition: color .15s linear;
@@ -7857,12 +7857,12 @@ body {
 }
 
 .navbar-inverse .nav-item .nav-link:focus, .navbar-inverse .nav-item .nav-link:hover {
-  color: #fff;
-  background: 0 0
+  color: rgba(255, 255, 255, 1.0);
+  background: 0 0;
 }
 
-.navbar-inverse .nav-item .nav-link:hover {
-  font-weight: bold;
+.navbar-inverse .nav-item nav-link:hover {
+  color: rgba(255, 255, 255, 1.0) !important;
 }
 
 @media (min-width: 1200px) {
@@ -7929,7 +7929,11 @@ body {
 }
 
 .navbar-inverse.bg-transparent .nav-item .nav-link {
-  color: #fff
+  color: rgba(255, 255, 255, 0.85)
+}
+
+.navbar-inverse.bg-transparent .nav-item .nav-link:hover {
+  color: rgba(255, 255, 255, 1.0)
 }
 
 @media (min-width: 992px) {
