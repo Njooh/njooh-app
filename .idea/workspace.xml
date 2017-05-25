@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="182cc012-4eaa-49c9-93ff-f503bc899ae2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/theme_njooh.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme_njooh.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -691,12 +690,12 @@
       <workItem from="1495575617763" duration="106000" />
       <workItem from="1495575753251" duration="987000" />
       <workItem from="1495610460545" duration="13431000" />
-      <workItem from="1495702837557" duration="12869000" />
+      <workItem from="1495702837557" duration="13258000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27955000" />
+    <option name="totallyTimeSpent" value="28344000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
