@@ -15705,6 +15705,13 @@ body {
   }
 }
 
+.navbar-brand img {
+  width: 5em !important;
+  height: auto;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
 .navbar-inverse .navbar-brand {
   font-size: 21px;
   letter-spacing: .5px;
