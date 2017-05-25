@@ -7787,7 +7787,8 @@ body {
 }
 
 .navbar-inverse {
-  background-color: #282f37;
+  background-color: #205081;
+  height: 60px;
   box-shadow: 0 1px 2px rgba(0, 0, 0, .5);
   -webkit-transition: all .4s;
   -moz-transition: all .4s;
@@ -7803,7 +7804,7 @@ body {
 }
 
 .navbar-brand img {
-  width: em !important;
+  width: 4em !important;
   height: auto;
   padding: 0 !important;
   margin: 0 !important;
