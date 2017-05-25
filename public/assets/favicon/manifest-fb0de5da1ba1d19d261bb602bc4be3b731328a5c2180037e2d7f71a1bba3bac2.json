@@ -1,0 +1,18 @@
+{
+    "name": "Njooh",
+    "icons": [
+        {
+            "src": "/assets/favicon/android-chrome-192x192-7607f8ad1bd00256283f775d1ed193eeae701bf72baa29791b1624b2e2e88d24.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/favicon/android-chrome-512x512-809963a778c95ec2c5ad234c883c72021d7f2019cf854e7deb715c40228f7f77.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
