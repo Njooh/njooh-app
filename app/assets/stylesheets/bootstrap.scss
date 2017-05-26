@@ -3179,6 +3179,34 @@ tbody.collapse.show {
   border-radius: 0.25rem;
 }
 
+/* Joe Bhent arrow of dropdown menu */
+
+.dropdown-menu:before {
+  position: absolute;
+  top: -10px;
+  left: 15%;
+  display: inline-block;
+  border-right: 10px solid transparent;
+  border-bottom: 10px solid #ffffff;
+  border-left: 10px solid transparent;
+  border-bottom-color: rgba(0, 0, 0, 0.0);
+  content: '';
+}
+
+.dropdown-menu:after {
+  position: absolute;
+  top: -9px;
+  left: 15%;
+  display: inline-block;
+  border-right: 9px solid transparent;
+  border-bottom: 9px solid #ffffff;
+  border-left: 9px solid transparent;
+  content: '';
+}
+
+/* End Joe Bhent arrow of dropdown menu */
+
+
 .dropdown-divider {
   height: 1px;
   margin: 0.5rem 0;
