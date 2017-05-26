@@ -4,7 +4,6 @@
     <list default="true" id="182cc012-4eaa-49c9-93ff-f503bc899ae2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstrap.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/application/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/application/_header.html.erb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,8 +57,8 @@
       <file leaf-file-name="bootstrap.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="3189" column="35" lean-forward="false" selection-start-line="3189" selection-start-column="35" selection-end-line="3189" selection-end-column="35" />
+            <state relative-caret-position="78">
+              <caret line="3163" column="9" lean-forward="false" selection-start-line="3163" selection-start-column="9" selection-end-line="3163" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -133,8 +132,8 @@
       <find>.navbar-inverse.bg-transparent .nav-item .nav-link</find>
       <find>navbar-inverse</find>
       <find>.navbar-inverse</find>
-      <find>dropdown</find>
       <find>dropdown-menu</find>
+      <find>dropdown</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -697,12 +696,12 @@
       <workItem from="1495575617763" duration="106000" />
       <workItem from="1495575753251" duration="987000" />
       <workItem from="1495610460545" duration="13431000" />
-      <workItem from="1495702837557" duration="19359000" />
+      <workItem from="1495702837557" duration="21147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34445000" />
+    <option name="totallyTimeSpent" value="36233000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -969,8 +968,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/bootstrap.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="3189" column="35" lean-forward="false" selection-start-line="3189" selection-start-column="35" selection-end-line="3189" selection-end-column="35" />
+        <state relative-caret-position="78">
+          <caret line="3163" column="9" lean-forward="false" selection-start-line="3163" selection-start-column="9" selection-end-line="3163" selection-end-column="9" />
           <folding />
         </state>
       </provider>
