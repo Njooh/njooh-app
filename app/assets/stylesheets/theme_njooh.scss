@@ -5333,25 +5333,24 @@ img.mfp-img {
   transform: rotateX(180deg) translate3d(0, 0, 100px) scale(.85, .85)
 }
 
-
 .fxSoftScale .navOutNext {
-  -webkit-animation: scaleUp 1.5s forwards cubic-bezier(.7, 0, .3, 1);
-  animation: scaleUp 1.5s forwards cubic-bezier(.7, 0, .3, 1)
+  -webkit-animation: scaleUp 0.5s forwards cubic-bezier(0, 0, 0, 0);
+  animation: scaleUp 0.5s forwards cubic-bezier(0, 0, 0, 0)
 }
 
 .fxSoftScale .navInNext {
-  -webkit-animation: scaleDownUp 1.5s forwards cubic-bezier(.7, 0, .3, 1);
-  animation: scaleDownUp 1.5s forwards cubic-bezier(.7, 0, .3, 1)
+  -webkit-animation: scaleDownUp 0.5s forwards cubic-bezier(0, 0, 0, 0);
+  animation: scaleDownUp 0.5s forwards cubic-bezier(0, 0, 0, 0)
 }
 
 .fxSoftScale .navOutPrev {
-  -webkit-animation: scaleDown 1.5s forwards cubic-bezier(.7, 0, .3, 1);
-  animation: scaleDown 1.5s forwards cubic-bezier(.7, 0, .3, 1)
+  -webkit-animation: scaleDown 0.5s forwards cubic-bezier(0, 0, 0, 0);
+  animation: scaleDown 0.5s forwards cubic-bezier(0, 0, 0, 0)
 }
 
 .fxSoftScale .navInPrev {
-  -webkit-animation: scaleUpDown 1.5s forwards cubic-bezier(.7, 0, .3, 1);
-  animation: scaleUpDown 1.5s forwards cubic-bezier(.7, 0, .3, 1)
+  -webkit-animation: scaleUpDown 0.5s forwards cubic-bezier(0, 0, 0, 0);
+  animation: scaleUpDown 0.5s forwards cubic-bezier(0, 0, 0, 0)
 }
 
 @-webkit-keyframes scaleUp {
@@ -5431,25 +5430,25 @@ img.mfp-img {
 }
 
 .fxPressAway .navOutNext {
-  -webkit-animation: slideOutScaleRight 1.2s forwards cubic-bezier(.7, 0, .3, 1);
-  animation: slideOutScaleRight 1.2s forwards cubic-bezier(.7, 0, .3, 1)
+  -webkit-animation: slideOutScaleRight 0.9s forwards cubic-bezier(.7, 0, .3, 1);
+  animation: slideOutScaleRight 0.9s forwards cubic-bezier(.7, 0, .3, 1)
 }
 
 .fxPressAway .navInNext {
   opacity: 1;
-  -webkit-animation: slideInFromLeft 1.2s forwards cubic-bezier(.7, 0, .3, 1);
-  animation: slideInFromLeft 1.2s forwards cubic-bezier(.7, 0, .3, 1)
+  -webkit-animation: slideInFromLeft 0.9s forwards cubic-bezier(.7, 0, .3, 1);
+  animation: slideInFromLeft 0.9s forwards cubic-bezier(.7, 0, .3, 1)
 }
 
 .fxPressAway .navOutPrev {
-  -webkit-animation: slideOutScaleLeft 1.2s forwards cubic-bezier(.7, 0, .3, 1);
-  animation: slideOutScaleLeft 1.2s forwards cubic-bezier(.7, 0, .3, 1)
+  -webkit-animation: slideOutScaleLeft 0.9s forwards cubic-bezier(.7, 0, .3, 1);
+  animation: slideOutScaleLeft 0.9s forwards cubic-bezier(.7, 0, .3, 1)
 }
 
 .fxPressAway .navInPrev {
   opacity: 1;
-  -webkit-animation: slideInFromRight 1.2s forwards cubic-bezier(.7, 0, .3, 1);
-  animation: slideInFromRight 1.2s forwards cubic-bezier(.7, 0, .3, 1)
+  -webkit-animation: slideInFromRight 0.9s forwards cubic-bezier(.7, 0, .3, 1);
+  animation: slideInFromRight 0.9s forwards cubic-bezier(.7, 0, .3, 1)
 }
 
 @-webkit-keyframes slideOutScaleRight {
@@ -8819,7 +8818,7 @@ body {
 }
 
 .index-header {
-  min-height: 650px;
+  min-height: 550px;
   background-image: linear-gradient(-45deg, #26d0ce 0, #2681cf 50%, #205081 100%)
 }
 
@@ -8836,7 +8835,7 @@ body {
 }
 
 .index-header section {
-  padding-top: 180px
+  padding-top: 120px
 }
 
 @media (max-width: 991px) {
@@ -8969,8 +8968,10 @@ body {
 
 .index-header section .mobile-pic {
   position: absolute;
-  right: 80px;
-  top: -30px;
+  right: 10%;
+
+  height: 100%;
+  width: auto;
   -webkit-animation-delay: .4s;
   -moz-animation-delay: .4s;
   -o-animation-delay: .4s;
