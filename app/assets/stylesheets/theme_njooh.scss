@@ -8851,13 +8851,19 @@ body {
   }
 }
 
+.index-header section .njooh-title-item{
+  padding: 0 0 20px 0;
+}
+.index-header section h1 .njooh-icon{
+  margin: 0 20px 0 0;
+}
+
 .index-header section h1 {
   color: #fff;
   line-height: 44px;
-  font-size: 34px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 600;
   font-family: "Libre Franklin", Lato, "Helvetica Neue", Arial;
-  margin-top: 20px
 }
 
 @media (max-width: 991px) {
@@ -8868,11 +8874,13 @@ body {
 }
 
 .index-header section p {
-  color: #b7bde0;
-  margin-top: 35px;
-  font-size: 15px;
-  width: 80%;
-  line-height: 24px
+  position: relative;
+  top: -6%;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 12px;
+  font-weight: 600;
+  width: 100%;
+  line-height: 6px;
 }
 
 @media (max-width: 767px) {
@@ -8968,8 +8976,9 @@ body {
 
 .index-header section .mobile-pic {
   position: absolute;
-  right: 10%;
-
+  right: 25%;
+  left: 25%;
+  top: 0%;
   height: 100%;
   width: auto;
   -webkit-animation-delay: .4s;
