@@ -8854,9 +8854,6 @@ body {
 .index-header section .njooh-title-item{
   padding: 0 0 20px 0;
 }
-.index-header section h1 .njooh-icon{
-  margin: 0 20px 0 0;
-}
 
 .index-header section h1 {
   color: #fff;
@@ -8890,7 +8887,7 @@ body {
 }
 
 .index-header section .cta {
-  margin-top: 55px
+  margin-top: 24px
 }
 
 @media (max-width: 767px) {
@@ -8977,7 +8974,7 @@ body {
 .index-header section .mobile-pic {
   position: absolute;
   right: 25%;
-  left: 25%;
+  left: 0;
   top: 0%;
   height: 100%;
   width: auto;
