@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="182cc012-4eaa-49c9-93ff-f503bc899ae2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-8288c081eb6faabac9bbb6b7bba1f720c18b309c4da0be1747811a4bfc413afc.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-8288c081eb6faabac9bbb6b7bba1f720c18b309c4da0be1747811a4bfc413afc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-15668e2a60966524717565bd553d81bba432d0389bae618ccce7dffa651fa7dd.css.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/people-trading-d427046c41c8844960147a92872c7b0af4c9e93744922f2e1151995e19c62f34.svg.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/people-trading.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-15668e2a60966524717565bd553d81bba432d0389bae618ccce7dffa651fa7dd.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/people-trading-d427046c41c8844960147a92872c7b0af4c9e93744922f2e1151995e19c62f34.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/pages.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/pages.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/theme_njooh.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/theme_njooh.scss" />
@@ -39,15 +42,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/pages/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="142" column="108" lean-forward="false" selection-start-line="142" selection-start-column="108" selection-end-line="142" selection-end-column="108" />
+            <state relative-caret-position="318">
+              <caret line="49" column="33" lean-forward="false" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#3;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#3;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -57,8 +61,8 @@
       <file leaf-file-name="pages.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pages.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="180">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -81,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme_njooh.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="theme_njooh.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme_njooh.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-182">
-              <caret line="17439" column="16" lean-forward="false" selection-start-line="17439" selection-start-column="16" selection-end-line="17439" selection-end-column="16" />
+            <state relative-caret-position="255">
+              <caret line="8976" column="9" lean-forward="false" selection-start-line="8976" selection-start-column="9" selection-end-line="8976" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -113,10 +117,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.navbar-inverse</find>
-      <find>dropdown</find>
-      <find>circle</find>
-      <find>spacial-slider</find>
       <find>dropdown-menu</find>
       <find>fxSoftScale</find>
       <find>hero-sl</find>
@@ -143,6 +143,10 @@
       <find>date</find>
       <find>actions-post</find>
       <find>share</find>
+      <find>njooh-icon</find>
+      <find>avat</find>
+      <find>icon</find>
+      <find>.index-header section .cta</find>
     </findStrings>
     <replaceStrings>
       <replace>actions-post</replace>
@@ -171,9 +175,9 @@
         <option value="$PROJECT_DIR$/app/assets/javascripts/theme_njooh.js" />
         <option value="$PROJECT_DIR$/../../Themes_inspiration/freelancer.com/index.html" />
         <option value="$PROJECT_DIR$/app/views/application/_header.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/theme_njooh.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/pages.scss" />
         <option value="$PROJECT_DIR$/app/views/pages/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/theme_njooh.scss" />
       </list>
     </option>
   </component>
@@ -853,12 +857,12 @@
       <workItem from="1495575753251" duration="987000" />
       <workItem from="1495610460545" duration="13431000" />
       <workItem from="1495702837557" duration="50410000" />
-      <workItem from="1495987908127" duration="14536000" />
+      <workItem from="1495987908127" duration="18000000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80032000" />
+    <option name="totallyTimeSpent" value="83496000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -961,6 +965,7 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#3;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -974,6 +979,7 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#3;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -1217,32 +1223,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme_njooh.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="17439" column="16" lean-forward="false" selection-start-line="17439" selection-start-column="16" selection-end-line="17439" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/pages.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/pages/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="142" column="108" lean-forward="false" selection-start-line="142" selection-start-column="108" selection-end-line="142" selection-end-column="108" />
+        <state relative-caret-position="318">
+          <caret line="49" column="33" lean-forward="false" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#3;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#3;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/theme_njooh.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="8976" column="9" lean-forward="false" selection-start-line="8976" selection-start-column="9" selection-end-line="8976" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
